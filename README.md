@@ -19,10 +19,3 @@ MindMitra is a GenAI-powered digital wellness assistant designed to provide emot
 - Node.js / Python (backend services)
 - Encryption APIs (user privacy)
 
-## 📽️ Demo
-Watch demo: [Demo Video](https://youtu.be/qHhuXCSiSkU)
-
-## 🌐 Live App
-Access the web app: [MindMitra](https://mindmitra.vercel.app)
-
-## 📦 Folder Structure
